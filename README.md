@@ -15,3 +15,13 @@ Astrophysics classes at Yachay
 ## Recommended Books
 
 Arnab Rai Choudhuri: Astrophysics for physicists
+
+## Lecture notes
+
+The slides presented in class are in the folder called slides. Numbering is following the numbering in the syllabus. 
+
+Slides will be updated regularly. 
+
+## Contact
+
+hdenes@yachaytech.edu.ec
