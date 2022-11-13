@@ -2,6 +2,8 @@
 Introduction to Astrophysics classes at Yachay
 2022 semester 2
 
+Wednesday, Thursday, Friday 12:00-14:00 AI 101
+
 ## Syllabus
 
 1. Introduction to astrophysics
@@ -12,6 +14,12 @@ Introduction to Astrophysics classes at Yachay
 6. Astrophysical plasmas
 7. Extragalactic astronomy
 8. Special relativity
+
+## Evaluation
+
+• Quizzes 40% of the grade
+• Midterm exam ~ around the 16th of January 2023 30% of the grade 
+• Final exam ~ around the 7th of March 2023 30% of the grade
 
 ## Recommended Books
 
