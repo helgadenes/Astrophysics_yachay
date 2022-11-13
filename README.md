@@ -17,9 +17,9 @@ Wednesday, Thursday, Friday 12:00-14:00 AI 101
 
 ## Evaluation
 
-• Quizzes 40% of the grade
-• Midterm exam ~ around the 16th of January 2023 30% of the grade 
-• Final exam ~ around the 7th of March 2023 30% of the grade
+- Quizzes 40% of the grade
+- Midterm exam ~ around the 16th of January 2023 30% of the grade 
+- Final exam ~ around the 7th of March 2023 30% of the grade
 
 ## Recommended Books
 
