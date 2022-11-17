@@ -1,5 +1,8 @@
 # Astrophysics_yachay
-Astrophysics classes at Yachay
+Introduction to Astrophysics classes at Yachay
+2022 semester 2
+
+Wednesday, Thursday, Friday 12:00-14:00 AI 101
 
 ## Syllabus
 
@@ -12,6 +15,22 @@ Astrophysics classes at Yachay
 7. Extragalactic astronomy
 8. Special relativity
 
+## Evaluation
+
+- Quizzes 40% of the grade
+- Midterm exam ~ around the 16th of January 2023 30% of the grade 
+- Final exam ~ around the 7th of March 2023 30% of the grade
+
 ## Recommended Books
 
 Arnab Rai Choudhuri: Astrophysics for physicists
+
+## Lecture notes
+
+The slides presented in class are in the folder called slides. Numbering is following the numbering in the syllabus. 
+
+Slides will be updated regularly. 
+
+## Contact
+
+hdenes@yachaytech.edu.ec
