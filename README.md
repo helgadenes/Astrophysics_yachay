@@ -21,6 +21,8 @@ Wednesday, Thursday, Friday 12:00-14:00 AI 101
 - Midterm exam ~ around the 16th of January 2023 30% of the grade 
 - Final exam ~ around the 7th of March 2023 30% of the grade
 
+Quiz 1: 24th November - short conceptual questions, Material for preparations: Lecture slides and chapters 1 - 2 from the book Arnab Rai Choudhuri: Astrophysics for physicists 
+
 ## Recommended Books
 
 Arnab Rai Choudhuri: Astrophysics for physicists
