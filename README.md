@@ -23,13 +23,15 @@ Wednesday, Thursday, Friday 12:00-14:00 AI 101
 
 <b> Quiz 1: 24th November </b> - short conceptual questions, Material for preparations: Lecture slides and chapters 1 - 2 from the book Arnab Rai Choudhuri: Astrophysics for physicists. Note that the slides are more complete compared to chapter 1 in the book, due to recent technological development that is not covered in the book. 
 
+<b> Homework: due on the 16th of January (Midnight) </b> - The discription of the homework is in the Homework directory in the the ipython notebook. 
+
 ## Recommended Books
 
 Arnab Rai Choudhuri: Astrophysics for physicists
 
 ## Lecture notes
 
-The slides presented in class are in the folder called slides. Numbering is following the numbering in the syllabus. 
+The slides presented in class are in the folder called slides.  
 
 Slides will be updated regularly. 
 
