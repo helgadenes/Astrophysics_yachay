@@ -11,9 +11,8 @@ Wednesday, Thursday, Friday 12:00-14:00 AI 101
 3. stellar astrophysics
 4. The end state of stellar evolution
 5. Interstellar medium
-6. Astrophysical plasmas
-7. Extragalactic astronomy
-8. Special relativity
+6. Extragalactic astronomy
+7. Special relativity
 
 ## Evaluation
 
