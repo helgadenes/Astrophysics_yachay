@@ -1,8 +1,7 @@
 # Astrophysics_yachay
 Introduction to Astrophysics classes at Yachay
-2022 semester 2
+2023 1st semester 
 
-Wednesday, Thursday, Friday 12:00-14:00 AI 101
 
 ## Syllabus
 
@@ -12,7 +11,6 @@ Wednesday, Thursday, Friday 12:00-14:00 AI 101
 4. The end state of stellar evolution
 5. Interstellar medium
 6. Extragalactic astronomy
-7. Special relativity
 
 ## Evaluation
 
@@ -20,11 +18,6 @@ Wednesday, Thursday, Friday 12:00-14:00 AI 101
 - Midterm exam ~ around the 16th of January 2023 30% of the grade 
 - Final exam ~ around the 7th of March 2023 30% of the grade
 
-<b> Quiz 1: 24th November </b> - short conceptual questions, Material for preparations: Lecture slides and chapters 1 - 2 from the book Arnab Rai Choudhuri: Astrophysics for physicists. Note that the slides are more complete compared to chapter 1 in the book, due to recent technological development that is not covered in the book. 
-
-<b> Homework: due on the 16th of January (Midnight) </b> - The discription of the homework is in the Homework directory in the the ipython notebook. 
-
-<b> Midterm: 20th January </b> - short conceptual questions, Material for preparations: Lecture slides and chapters 1, 2, 3, 4, 5, 6.1-6.7, 9 from the book Arnab Rai Choudhuri: Astrophysics for physicists. Please also revise the slides, the slides are more extensive for some of the topics, e.g. introduction, the Galaxy, extragalactic astrophysics. 
 
 ## Recommended Books
 
