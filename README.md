@@ -11,6 +11,9 @@ Introduction to Astrophysics classes at Yachay
 4. The end state of stellar evolution
 5. Interstellar medium
 6. Extragalactic astronomy
+7. The spacetime dynamics of the Universe
+8. The thermal history of the Universe
+9. Relativistic cosmology
 
 ## Evaluation
 
