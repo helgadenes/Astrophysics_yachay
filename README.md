@@ -1,6 +1,6 @@
 # Astrophysics_yachay
 Introduction to Astrophysics classes at Yachay
-2023 1st semester 
+2024 1st semester 
 
 
 ## Syllabus
@@ -28,7 +28,7 @@ Arnab Rai Choudhuri: Astrophysics for physicists
 
 ## Lecture notes
 
-The slides presented in class are in the folder called slides.  
+The slides presented in class are in the folder called slides. The slides are mostly based on the book Arnab Rai Choudhuri: Astrophysics for physicists 
 
 Slides will be updated regularly. 
 
