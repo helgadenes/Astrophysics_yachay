@@ -1,6 +1,6 @@
 # Astrophysics_yachay
 Introduction to Astrophysics classes at Yachay
-2023 1st semester 
+2024 1st semester 
 
 
 ## Syllabus
@@ -11,6 +11,9 @@ Introduction to Astrophysics classes at Yachay
 4. The end state of stellar evolution
 5. Interstellar medium
 6. Extragalactic astronomy
+7. The spacetime dynamics of the Universe
+8. The thermal history of the Universe
+9. Relativistic cosmology
 
 ## Evaluation
 
@@ -25,7 +28,7 @@ Arnab Rai Choudhuri: Astrophysics for physicists
 
 ## Lecture notes
 
-The slides presented in class are in the folder called slides.  
+The slides presented in class are in the folder called slides. The slides are mostly based on the book Arnab Rai Choudhuri: Astrophysics for physicists 
 
 Slides will be updated regularly. 
 
