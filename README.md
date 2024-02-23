@@ -7,8 +7,7 @@ Introduction to Astrophysics classes at Yachay
 
 1. Introduction to astrophysics
 2. Radiative transfer
-3. stellar astrophysics
-4. The end state of stellar evolution
+3. Stellar astrophysics
 5. Interstellar medium
 6. Extragalactic astronomy
 7. The spacetime dynamics of the Universe
