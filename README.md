@@ -1,6 +1,6 @@
 # Astrophysics_yachay
 Introduction to Astrophysics classes at Yachay
-2024 1st semester 
+2024 2st semester 
 
 
 ## Syllabus
@@ -16,7 +16,8 @@ Introduction to Astrophysics classes at Yachay
 
 ## Evaluation
 
-- Quizzes - 40% of the grade
+- Quizzes - 20% of the grade
+- Homework - 20% of the grade 
 - Midterm exam - 30% of the grade 
 - Final exam - 30% of the grade
 
