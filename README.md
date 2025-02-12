@@ -9,10 +9,10 @@ Introduction to Astrophysics classes at Yachay
 2. Radiative transfer
 3. Stellar astrophysics
 5. Interstellar medium
-6. Extragalactic astronomy
-7. The spacetime dynamics of the Universe
-8. The thermal history of the Universe
-9. Relativistic cosmology
+6. Star formation and planet formation
+7. Extragalactic astronomy
+8. The spacetime dynamics of the Universe
+9. The thermal history of the Universe
 
 ## Evaluation
 
