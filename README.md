@@ -1,6 +1,6 @@
 # Astrophysics_yachay
 Introduction to Astrophysics classes at Yachay
-2024 2st semester 
+2025 1st semester 
 
 
 ## Syllabus
