@@ -36,4 +36,4 @@ Slides will be updated regularly.
 
 ## Contact
 
-hdenes@yachaytech.edu.ec
+hdenes@usfq.edu.ec
