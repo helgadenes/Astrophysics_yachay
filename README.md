@@ -31,9 +31,3 @@ Carroll, Bradley W., and Dale A. Ostlie. An Introduction to Modern Astrophysics
 ## Lecture notes
 
 The slides presented in class are in the folder called slides. The slides are mostly based on the book Arnab Rai Choudhuri: Astrophysics for physicists 
-
-Slides will be updated regularly. 
-
-## Contact
-
-hdenes@usfq.edu.ec
