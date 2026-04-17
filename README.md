@@ -1,5 +1,5 @@
 # Astrophysics_yachay
-Introduction to Astrophysics classes at Yachay
+Introduction to Astrophysics course at Yachay
 2025 1st semester 
 
 
